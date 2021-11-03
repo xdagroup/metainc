@@ -33,14 +33,14 @@ button, input, optgroup, select, textarea{
     font-size: 2.5rem;
 }
 a {
-    color: #00c853;
+    color: #2678c5;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
 }
 a:hover,
 a:focus {
-    color: #009624 !important;
+    color: #1786c7 !important;
     outline: 0;
     text-decoration: none !important;
 }
@@ -52,7 +52,7 @@ section{
     padding: 0;
 }
 .card-outline-primary{
-    border-color: #00c853;
+    border-color: #2678c5;
 }
 .hero .row {
   align-items: center;
@@ -90,7 +90,7 @@ textarea.form-control {
 }
 
 .form-control:hover, .form-control:focus{
-    border-color: #00c853;
+    border-color: #2678c;
 }
 /*===============================================
 * Background Colors
@@ -105,7 +105,7 @@ textarea.form-control {
     background-color: #032EFF !important;
 }
 .bg-primary{
-    background-color: #00c853 !important;
+    background-color: #032EFF !important;
 }
 .bg-purple{
     background-color: #3d5afe;
@@ -120,7 +120,7 @@ textarea.form-control {
     background-color:#ff0080;
 }
 .bg-green{
-    background-color:#00c853;
+    background-color:#032EFF;
 }
 .bg-red{
     background-color:#FF3B30;
@@ -129,7 +129,7 @@ textarea.form-control {
     background-color: #7B1FA2;
 }
 .bg-teal{
-    background-color: #00796B;
+    background-color: #032EFF;
 }
 .bg-slate{
     background-color: #455A64;
@@ -157,7 +157,7 @@ textarea.form-control {
     text-decoration:none;
 }
 .text-primary {
-    color: #00c853 !important;
+    color: #032EFF3 !important;
 }
 .text-purple{
     color: #3d5afe !important;
@@ -172,7 +172,7 @@ textarea.form-control {
     color:#ff0080 !important;
 }
 .text-green{
-    color:#00c853 !important;
+    color:#032EFF !important;
 }
 .text-red{
     color:#FF3B30 !important;
@@ -181,7 +181,7 @@ textarea.form-control {
     color: #7B1FA2 !important;
 }
 .text-teal{
-    color: #00796B !important;
+    color: #032EFF !important;
 }
 .text-slate{
     color: #455A64 !important;
@@ -237,7 +237,7 @@ label{
     background: rgba(255, 255, 255, 0.2) !important;
 }
 .btn-white {
-    color: #00c853;
+    color: #032EFF;
     background-color: #fff;
     border-color: #fff;
 }
